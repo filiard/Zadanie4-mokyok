@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010">
+  <TalendMetadata:GenericSchemaConnection xmi:id="_S2M0wLC2EemGy-ix_4kf6g" comment="connectionComment" label="connectionLabel" dataPackage="_S2M0wbC2EemGy-ix_4kf6g"/>
+  <TalendMetadata:GenericPackage xmi:id="_S2M0wbC2EemGy-ix_4kf6g" dataManager="_S2M0wLC2EemGy-ix_4kf6g">
+    <ownedElement xsi:type="TalendMetadata:MetadataTable" xmi:id="_S2M0wrC2EemGy-ix_4kf6g" label="metadata">
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_S2M0w7C2EemGy-ix_4kf6g" name="kontakt_id" id="241" label="kontakt_id" length="-1" precision="-1" sourceType="" talendType="id_Integer" nullable="false">
+        <initialValue xmi:id="_S2M0xLC2EemGy-ix_4kf6g"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_S2M0xbC2EemGy-ix_4kf6g" name="klient_id" id="242" label="klient_id" length="-1" precision="-1" sourceType="" talendType="id_Integer" nullable="false">
+        <initialValue xmi:id="_S2M0xrC2EemGy-ix_4kf6g"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_S2M0x7C2EemGy-ix_4kf6g" name="pracownik_id" id="243" label="pracownik_id" length="-1" precision="-1" sourceType="" talendType="id_Integer" nullable="false">
+        <initialValue xmi:id="_S2M0yLC2EemGy-ix_4kf6g"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_S2M0ybC2EemGy-ix_4kf6g" name="status" id="244" label="status" length="-1" precision="-1" sourceType="" talendType="id_String" nullable="false">
+        <initialValue xmi:id="_S2M0yrC2EemGy-ix_4kf6g"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_S2Nb0LC2EemGy-ix_4kf6g" name="kontakt_ts" id="245" label="kontakt_ts" length="-1" precision="-1" sourceType="" talendType="id_String" nullable="false">
+        <initialValue xmi:id="_S2Nb0bC2EemGy-ix_4kf6g"/>
+      </feature>
+    </ownedElement>
+  </TalendMetadata:GenericPackage>
+</xmi:XMI>

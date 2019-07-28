@@ -1,0 +1,2 @@
+TOS_Jobs_Records={"LOCAL_PROJECT"\:{"projects"\:{"METADATA_GENERIC_SCHEMA"\:{"nb"\:2,"nb.used"\:0},"PROCESS"\:{"details"\:{"components"\:[{"component_name"\:"tFileInputJSON","count"\:1},{"component_name"\:"tFilterRow","count"\:1},{"component_name"\:"tSortRow","count"\:1},{"component_name"\:"tFileOutputDelimited","count"\:1}],"nb.components"\:4,"nb.contextVars"\:0},"nb"\:1}},"type"\:"local"}}
+eclipse.preferences.version=1
